@@ -1,5 +1,5 @@
-# tapha/mws-laravel
-A minimal service provider to set up and use the Amazon MWS API PHP library in Laravel 5.*
+# jinhuaxiao/mws-laravel
+A minimal service provider to set up and use the Amazon MWS API PHP library in Laravel 5.4
 
 Forked from https://github.com/CPIGroup/phpAmazonMWS
 
