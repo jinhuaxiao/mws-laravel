@@ -11,7 +11,7 @@
         }
     ],
   "require": {
-    "laravel/framework": "5.40-5.59",
+    "laravel/framework": "5.40 - 5.59",
     "illuminate/support": "5.*",
     "anlutro/l4-settings": "0.4.8"
   },
